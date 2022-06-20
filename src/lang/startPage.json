@@ -1,0 +1,9 @@
+{
+    "title": "Parakey assesment test",
+    "appName": "Weather app.",
+    "cityLabel" : "Choose a city",
+    "city" : "Gothenburg",
+    "mesureUnitLabel" : "Choose measuring units",
+    "unit": "Celsius",
+    "showStat": "Show statistics"
+}

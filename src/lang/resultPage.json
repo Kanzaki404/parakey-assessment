@@ -1,0 +1,8 @@
+{
+    "title": "Statistics on temperatures measured in 4 day weather report in city of Gothnburg.",
+    "mean" : "mean",
+    "median": "median",
+    "minimum": "minimum",
+    "maximum": "maxmimum",
+    "newSearch": "New Search"
+}
